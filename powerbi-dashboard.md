@@ -14,4 +14,4 @@ Dashboard Pages
 
 ### Download the Interactive Dashboard
 
-[Download Power BI Dashboard (.pbix)](./Retail_Pricing_and_Discount_Analysis.pbix)
+[Download Power BI Dashboard (.pbix)](./retail-pricing-and-discount-effectiveness-analysis/Executive%20Overview.pbix)
