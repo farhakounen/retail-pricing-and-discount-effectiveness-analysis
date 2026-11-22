@@ -12,6 +12,6 @@ Dashboard Pages
 4. Customer & Regional Analysis
 5. Pricing Strategy & Recommendations
 
-Dashboard File
+### Download the Interactive Dashboard
 
-Download the ".pbix" file from this repository to explore the interactive dashboard using Power BI Desktop.
+[Download Power BI Dashboard (.pbix)](./Retail_Pricing_and_Discount_Analysis.pbix)
