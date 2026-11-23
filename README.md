@@ -71,23 +71,22 @@ Dashboard Development| Power BI
 - Developed a multi-page Power BI dashboard.
 - Created business-focused KPIs and interactive visuals.
 - Organized insights into clear analytical sections.
-- ### Dashboard Screenshots
+## Dashboard Screenshots
 
-#### 1. Executive Pricing Overview
-![Executive Pricing Overview](Dashboard/screenshots/01_Executive_Pricing_Overview.png)
+### 1. Executive Pricing Overview
+![Executive Overview](Dashboard/screenshots/01-Executive_overview.png)
 
-#### 2. Discount Impact Analysis
-![Discount Impact Analysis](Dashboard/screenshots/02_Discount_Impact_Analysis.png)
+### 2. Discount Impact Analysis
+![Discount Impact](Dashboard/screenshots/02_Discount_Impact_analysis.png)
 
-#### 3. Category & Product Pricing Analysis
-![Category and Product Analysis](Dashboard/screenshots/03_Category_Product_Analysis.png)
+### 3. Category & Product Analysis
+![Category Product Analysis](Dashboard/screenshots/03_Category_Product_Analysis.png)
 
-#### 4. Customer & Regional Analysis
-![Customer and Regional Analysis](Dashboard/screenshots/04_Customer_Regional_Analysis.png)
+### 4. Customer & Regional Analysis
+![Customer Regional Analysis](Dashboard/screenshots/04_Customer_Regional_Analysis.png)
 
-#### 5. Pricing Strategy & Recommendations
-![Pricing Strategy and Recommendations](Dashboard/screenshots/05_Pricing_Strategy_Recommendations.png)
-
+### 5. Pricing Strategy Analysis
+![Pricing Strategy](Dashboard/screenshots/05_Pricing_strategy_Analysis.png)
 6. Key Insights
 
 - Technology generated the highest sales and profit among the product categories.
