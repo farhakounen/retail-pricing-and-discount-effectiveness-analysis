@@ -1,8 +1,8 @@
-#Retail Pricing and Discount Effectiveness Analysis
+ # Retail Pricing and Discount Effectiveness Analysis
 
 An end-to-end data analytics project exploring how discount strategies relate to sales performance and profitability using Python, SQL, and Power BI.
 
-##1. Project Overview
+## Project Overview
 
 This project analyzes retail sales data to evaluate discount effectiveness and understand its relationship with business profitability.
 
@@ -10,7 +10,7 @@ The analysis explores product categories, customer segments, regional performanc
 
 The project combines Python-based data analysis, SQL business queries, and an interactive Power BI dashboard to transform raw sales data into actionable business insights.
 
-##2. Problem Statement
+## Problem Statement
 
 Are discounts helping the business generate profitable sales, or are they reducing profit without enough benefit?
 
@@ -18,7 +18,7 @@ Businesses often use discounts to encourage purchases and increase sales. Howeve
 
 This project investigates discount patterns and profitability to help identify pricing strategies that deserve closer attention.
 
-##3. Dataset
+## Dataset
 
 - Dataset: Superstore Sales Dataset
 - Records: 9,994 orders
@@ -34,7 +34,7 @@ The dataset contains information about:
 - Shipping information and regional performance
 - Returns and regional personnel information
 
-##4. Tools and Technologies
+## Tools and Technologies
 
 Layer| Technologies
 Programming Language| Python
@@ -43,7 +43,7 @@ Data Visualization| Matplotlib
 Database Querying| SQL
 Dashboard Development| Power BI
 
-##5. Methods and Workflow
+## Methods
 
 1. Data Understanding and Cleaning
 
@@ -89,7 +89,7 @@ Dashboard Development| Power BI
 ### 5. Pricing Strategy Analysis
 ![Pricing Strategy](Dashboard/screenshots/05_Pricing_stratergy_Analysis.png)
 
-##6. Key Insights
+## Key Insights
 
 - Technology generated the highest sales and profit among the product categories.
 - Furniture recorded significant sales but comparatively lower profitability.
@@ -100,7 +100,7 @@ Dashboard Development| Power BI
 
 These findings describe observed relationships in the dataset and should not be interpreted as proof that discounts alone caused lower profits.
 
-##7. Dashboard and Outputs
+## Dashboard and Outputs
 
 The interactive Power BI dashboard contains five analytical pages:
 
@@ -112,7 +112,7 @@ The interactive Power BI dashboard contains five analytical pages:
 
 Dashboard screenshots and the Power BI file will be available in this repository.
 
-##8. How to Run This Project
+## How to Run This Project
 
 1. Clone or download this repository.
 2. Install Python and the required libraries.
@@ -145,7 +145,7 @@ pip install pandas numpy matplotlib
 5. Open the Power BI dashboard using Power BI Desktop.
 
 
-##9. Results and Conclusion
+## Results and Conclusion
 
 The analysis demonstrates why sales volume alone is not sufficient to evaluate pricing performance.
 
@@ -153,14 +153,15 @@ Some categories and regions generate stronger profitability than others, while h
 
 The findings emphasize the importance of evaluating discount strategies alongside profitability, product performance, and customer and regional contributions.
 
-##10. Future Work
+## Future Work
 
 - Analyze promotion effectiveness using additional campaign-level data.
 - Explore customer purchasing responses to different discount levels.
 - Incorporate additional datasets to validate pricing patterns.
 - Extend the dashboard with further pricing performance metrics.
 
-##11. Project Structure
+## Project Structure
+
 
 The repository will contain the following files:
 
@@ -200,13 +201,13 @@ retail-pricing-and-discount-effectiveness-analysis/
 [Download Power BI Dashboard (.pbix)](Executive%20overview.pbix)
 
 
-##12. Author and Contact
+## Author and Contact
 Farha Kounen
 Aspiring Data Analyst
 
 - GitHub: "farhakounen" (https://github.com/farhakounen)
 - LinkedIn: linkedin:www.linkedin.com/in/farha-kounen-9a1711420
 
-##13. Acknowledgement
+## Acknowledgement
 
 This project was developed as part of my Data Analyst portfolio to demonstrate practical skills in data analysis, SQL querying, business intelligence, and data-driven decision-making.
