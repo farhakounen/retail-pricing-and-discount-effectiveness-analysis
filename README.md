@@ -87,6 +87,7 @@ Dashboard Development| Power BI
 
 ### 5. Pricing Strategy Analysis
 ![Pricing Strategy](Dashboard/screenshots/05_Pricing_strategy_Analysis.png)
+
 6. Key Insights
 
 - Technology generated the highest sales and profit among the product categories.
