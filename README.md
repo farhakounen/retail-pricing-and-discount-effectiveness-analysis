@@ -86,7 +86,7 @@ Dashboard Development| Power BI
 ### 4. Customer & Regional Analysis
 ![Customer Regional Analysis](Dashboard/screenshots/04_Customer_Regional_Analysis.png)
 
-### 5. Pricing Strategy Analysis
+
 ![Pricing Strategy](Dashboard/screenshots/05_Pricing_strategy_Analysis.png)
 
 
