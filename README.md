@@ -1,6 +1,6 @@
 Retail Pricing and Discount Effectiveness Analysis
 
-«An end-to-end data analytics project exploring how discount strategies relate to sales performance and profitability using Python, SQL, and Power BI.»
+An end-to-end data analytics project exploring how discount strategies relate to sales performance and profitability using Python, SQL, and Power BI.
 
 1. Project Overview
 
@@ -143,12 +143,10 @@ retail-pricing-and-discount-effectiveness-analysis/
 12. Author and Contact
 
 Farha Kounen
-linkedin:www.linkedin.com/in/farha-kounen-9a1711420
-
 Aspiring Data Analyst
 
 - GitHub: "farhakounen" (https://github.com/farhakounen)
-- LinkedIn: Add your LinkedIn profile link here.
+- LinkedIn: linkedin:www.linkedin.com/in/farha-kounen-9a1711420
 
 13. Acknowledgement
 
