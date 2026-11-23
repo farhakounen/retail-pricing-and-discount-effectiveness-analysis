@@ -71,6 +71,22 @@ Dashboard Development| Power BI
 - Developed a multi-page Power BI dashboard.
 - Created business-focused KPIs and interactive visuals.
 - Organized insights into clear analytical sections.
+- ### Dashboard Screenshots
+
+#### 1. Executive Pricing Overview
+![Executive Pricing Overview](Dashboard/screenshots/01_Executive_Pricing_Overview.png)
+
+#### 2. Discount Impact Analysis
+![Discount Impact Analysis](Dashboard/screenshots/02_Discount_Impact_Analysis.png)
+
+#### 3. Category & Product Pricing Analysis
+![Category and Product Analysis](Dashboard/screenshots/03_Category_Product_Analysis.png)
+
+#### 4. Customer & Regional Analysis
+![Customer and Regional Analysis](Dashboard/screenshots/04_Customer_Regional_Analysis.png)
+
+#### 5. Pricing Strategy & Recommendations
+![Pricing Strategy and Recommendations](Dashboard/screenshots/05_Pricing_Strategy_Recommendations.png)
 
 6. Key Insights
 
@@ -109,6 +125,25 @@ Python Libraries
 
 pip install pandas numpy matplotlib
 
+## How to Run This Project
+
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/farhakounen/retail-pricing-and-discount-effectiveness-analysis.git
+   ```
+
+2. Open the Python notebook using Jupyter Notebook or VS Code.
+
+3. Install the required Python libraries:
+   ```bash
+   pip install pandas numpy matplotlib seaborn
+   ```
+
+4. Open the SQL file in PostgreSQL using pgAdmin.
+
+5. Open the Power BI dashboard using Power BI Desktop.
+
+
 9. Results and Conclusion
 
 The analysis demonstrates why sales volume alone is not sufficient to evaluate pricing performance.
@@ -135,11 +170,33 @@ retail-pricing-and-discount-effectiveness-analysis/
 │   └── retail_pricing_analysis.ipynb
 ├── SQL/
 │   └── retail_pricing_analysis.sql
+├── Dataset/
+│   ├── superstore_cleaned.csv
+│   └── Superstore.xls
 ├── Dashboard/
-│   ├── Executive overview.pbix
 │   └── screenshots/
+│       ├── 01_Executive_Pricing_Overview.png
+│       ├── 02_Discount_Impact_Analysis.png
+│       ├── 03_Category_Product_Analysis.png
+│       ├── 04_Customer_Regional_Analysis.png
+│       └── 05_Pricing_Strategy_Recommendations.png
+├── Executive overview.pbix
 └── powerbi-dashboard.md
 
+## Project Files
+
+### Python Analysis
+[View Python Jupyter Notebook](Python/retail_pricing_analysis.ipynb)
+
+### SQL Analysis
+[View SQL Queries](SQL/retail_pricing_analysis.sql)
+
+### Dataset
+- [Download Cleaned Dataset](Dataset/superstore_cleaned.csv)
+- [Download Original Dataset](Dataset/Superstore.xls)
+
+### Power BI Dashboard
+[Download Power BI Dashboard (.pbix)](Executive%20overview.pbix)
 12. Author and Contact
 
 Farha Kounen
