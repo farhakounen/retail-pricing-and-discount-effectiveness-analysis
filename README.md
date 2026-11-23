@@ -71,6 +71,7 @@ Dashboard Development| Power BI
 - Developed a multi-page Power BI dashboard.
 - Created business-focused KPIs and interactive visuals.
 - Organized insights into clear analytical sections.
+
 ## Dashboard Screenshots
 
 ### 1. Executive Pricing Overview
@@ -87,6 +88,7 @@ Dashboard Development| Power BI
 
 ### 5. Pricing Strategy Analysis
 ![Pricing Strategy](Dashboard/screenshots/05_Pricing_strategy_Analysis.png)
+
 
 6. Key Insights
 
